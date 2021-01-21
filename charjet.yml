@@ -1,0 +1,5 @@
+make:
+  controller:
+    args:
+    tpl: controllers/homecontroller.go
+    vars:
